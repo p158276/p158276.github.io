@@ -1,16 +1,2 @@
 remote_theme: pages-themes/minimal@v0.2.0
-
-# Site settings
-title: Chris porfolio
-description: >- 
-  A brief description of your site or blog.
-author:
-  name: Chris Lin
-  email: p158276@gmail.com
-
-# URL settings
-baseurl: "" # Leave this empty unless your site is in a subdirectory
-url: "https:/p158276.github.io" # Your GitHub Pages URL
-
-# Build settings
-markdown: kramdown
+verbose: true
