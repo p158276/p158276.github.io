@@ -1,2 +1,14 @@
 remote_theme: BDHU/minimalist
-verbose: true
+title: Kunyu (Chris) Lin 
+description: >- 
+  A brief description of your site or blog.
+author:
+  name: Chris Lin
+  email: p158276@gmail.com
+
+# URL settings
+baseurl: "" # Leave this empty unless your site is in a subdirectory
+url: "https://p158276.github.io" # Your GitHub Pages URL
+
+# Build settings
+markdown: kramdown
