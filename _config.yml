@@ -1,7 +1,7 @@
-remote_theme: BDHU/minimalist
+remote_theme: pages-themes/minimal@v0.2.0
 
 # Site settings
-title: Your Site Title
+title: Chris porfolio
 description: >- 
   A brief description of your site or blog.
 author:
