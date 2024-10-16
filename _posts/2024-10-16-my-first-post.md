@@ -2,6 +2,7 @@
 layout: post
 title: "My First Blog Post"
 date: 2024-10-16
+published: true
 ---
 
 This is the content of my first blog post using the Minimalist theme.
