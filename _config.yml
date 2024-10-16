@@ -12,3 +12,5 @@ url: "https://p158276.github.io" # Your GitHub Pages URL
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM 
