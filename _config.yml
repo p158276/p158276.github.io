@@ -1,9 +1,6 @@
 theme: minima
-title: Kunyu (Chris) Lin 
-description: >- 
-  A brief description of your site or blog.
 author:
-  name: Chris Lin
+  name: Kunyu(Chris) Lin
   email: p158276@gmail.com
 
 # URL settings
@@ -14,6 +11,10 @@ header_pages:
   - about.md
   - portfolio.md
 
+minima:
+  skin: classic
+  social_links: 
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kunyu-lin/" }
 # Build settings
 markdown: kramdown
 kramdown:

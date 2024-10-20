@@ -20,7 +20,7 @@ Download the [PDF version](https://drive.google.com/file/d/1urXEaJSe5otUICXX-PAh
 ---
 * META 
 	- Technical Solution Consulatants in LONDON, 08.2022 - NOW
-  		- Collaborate with Tier-1 retailers and brands to solve web/mobile/MMP tracking issues.
+  	  - Collaborate with Tier-1 retailers and brands to solve web/mobile/MMP tracking issues.
       - Troubleshoot pixel/catalog/app-related issues and provide solutions to clients.
       - Collaborate across product, engineering, and sales teams to bridge gaps and achieve common goals.
  

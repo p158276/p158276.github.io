@@ -10,5 +10,6 @@ Before Twitter, most of his professional experience was for companies based in T
 
 Chris has 5 years of experience growing digital advertising businesses and 2 years of mobile application-specific development experience. He has a master's degree in computer science from National Tsing Hua University. He loves running, traveling, cooking, and meeting new people.
 
-##Check [About me](http://p158276-blog.logdown.com/pages/about-me) for more details !
-##Check my works in [PORTFOLIO](http://p158276-blog.logdown.com/pages/portfolio).
+## Check [About me](https://p158276.github.io/about/) for more details !
+
+## Check my works in [PORTFOLIO](https://p158276.github.io/portfolio/).
