@@ -40,7 +40,7 @@ We collect 140 countries' currency from 3 organization everyday. Aggregate all t
   This is a system for face-based analysis and recognition which can detect eyeline from human face automatically.
   * Skills: Matlab, Machine Learning, Image Processing, C++, Java, Android Development
  
-  * [Introduction](https://goo.gl/cjQQ0D)
+  * [Introduction](https://drive.google.com/file/d/1MKKXvWvlRJ8JD8D2AAtoR77MuMgx6ldP/view?usp=drive_link)
 
 ### 猴你聽有 - 11.2013 ~ 01.2014
   This is an app based on pocketsphinx system which can recognize what user said immediately. We combined google TTS voice let user now how to talk in a easy way.  
