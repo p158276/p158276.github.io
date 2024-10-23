@@ -6,6 +6,8 @@ published: true
 
 ![螢幕快照 2015-09-06 下午12.18.33.png](https://p158276.github.io/assets/monkey_screenshot.png)
 
+<br/><br/>
+
 <table>
     <tr>
         <td><img src="https://p158276.github.io/assets/monkey_1.jpg" width="100%"></td>

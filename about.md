@@ -24,23 +24,17 @@ META - LONDON, UNITED KINGDOM, 08.2022 - NOW
 	- Enhanced agency support by redesigning the support framework and tooling, resulting in faster resolution times and a 30% improvement in CSAT.
 	- Collaborated with cross-functional teams, including product, engineering, and sales, to identify and resolve advertiser pain points and frictions.
 	- Presented at the Conversion API workshop during the Meta Performance Marketing Summit, leading to a $9 million revenue improvement.  
+
 TWITTER 
-	- Partner Engineer in LONDON, 08.2021 - 06.2022
-	- Partner Engineer in APAC, SINGAPORE, 11.2019 - 07.2021
-  		- Drove collaboration between network partners, SSPs/DSPs, and our Customer
-Success team to address bugs, requirements, and feature requests, acting as a
-liaison between Product and Engineering.
-    	- Collaborated closely with top-tier clients (Bitmango, Habby, MetaJoy, Voodoo,
-Zynga, etc.) to solve complex problems with customized solutions.
-    	- Co-led MoPub's ad mediation product, which allows app publishers to monetize
-with 5+ ad networks (AppLovin, Pangle, InMobi, etc.); this includes certifying
-adapters, supporting and troubleshooting 3rd-party network SDKs, and working
-with SDK partners on mobile advertising in general.
-    	- Provided expert technical consultation and collaborated with the demand and
-supply sides to solve complex problems.
-		- Troubleshot bidder integration with network partners (BidMachine, Criteo,
-Google, InMobi, etc.).
-<br></br>
+- Partner Engineer in LONDON, 08.2021 - 06.2022
+- Partner Engineer in APAC, SINGAPORE, 11.2019 - 07.2021
+	- Drove collaboration between network partners, SSPs/DSPs, and our Customer Success team to address bugs, requirements, and feature requests, acting as a liaison between Product and Engineering.
+	- Collaborated closely with top-tier clients (Bitmango, Habby, MetaJoy, Voodoo,Zynga, etc.) to solve complex problems with customized solutions.
+	- Co-led MoPub's ad mediation product, which allows app publishers to monetize with 5+ ad networks (AppLovin, Pangle, InMobi, etc.); this includes certifying adapters, supporting and troubleshooting 3rd-party network SDKs, and working with SDK partners on mobile advertising in general.
+    - Provided expert technical consultation and collaborated with the demand and
+	supply sides to solve complex problems.
+	- Troubleshot bidder integration with network partners (BidMachine, Criteo,Google, InMobi, etc.).  
+
 * INTOWOW - TAIPEI, TAIWAN, 07.2017 - 10.2019
 	- Advisory Solution Engineer Team Lead
   		- Designed the best SDK integration practices, supported client-side code troubleshoot, and analyzed results for over 50 publishers
