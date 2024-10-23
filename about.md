@@ -20,12 +20,11 @@ Download the [PDF version](https://drive.google.com/file/d/1_1LuxFI6_fYXXXdQSvXc
 ---
 META - LONDON, UNITED KINGDOM, 08.2022 - NOW
 - Technical Solution Consulatants
-  	- Developed scalable product solutions for top-tier advertisers (ad spend > 50 M/yr) and brands to address web, mobile, and Mobile Measurement Partner (MMP) tracking issues, resulting in a 32.1% ROI improvement for clients and a top CSAT rating from the client.
+	- Developed scalable product solutions for top-tier advertisers (ad spend > 50 M/yr) and brands to address web, mobile, and Mobile Measurement Partner (MMP) tracking issues, resulting in a 32.1% ROI improvement for clients and a top CSAT rating from the client.
 	- Enhanced agency support by redesigning the support framework and tooling, resulting in faster resolution times and a 30% improvement in CSAT.
 	- Collaborated with cross-functional teams, including product, engineering, and sales, to identify and resolve advertiser pain points and frictions.
-	- Presented at the Conversion API workshop during the Meta Performance Marketing Summit, leading to a $9 million revenue improvement.
-<br>
-* TWITTER 
+	- Presented at the Conversion API workshop during the Meta Performance Marketing Summit, leading to a $9 million revenue improvement.  
+TWITTER 
 	- Partner Engineer in LONDON, 08.2021 - 06.2022
 	- Partner Engineer in APAC, SINGAPORE, 11.2019 - 07.2021
   		- Drove collaboration between network partners, SSPs/DSPs, and our Customer
