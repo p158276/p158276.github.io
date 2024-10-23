@@ -49,7 +49,7 @@ We collect 140 countries' currency from 3 organization everyday. Aggregate all t
 
 * Skills: Java, Android Development, Cocos2D, Audio Signal Processing & Recognition
 
-* [Reference Link](https://p158276.github.io/2024/10/21/monkey-you/)
+* [Reference Link](https://p158276.github.io/2024/10/21/monkey-you.html)
 
 
 # **Game**
