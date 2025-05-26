@@ -4,7 +4,7 @@ title: "About me"
 permalink: /about/
 ---
 
-Download the [PDF version](https://drive.google.com/file/d/1HwbETJbLFPKXC4micG-2jY5j5xCVXILc/view?usp=drive_link) without the Projects section.
+Download the [PDF version](https://drive.google.com/file/d/1_1LuxFI6_fYXXXdQSvXcY4OlhTs3oQ2M/view?usp=sharing) without the Projects section.
 
 # Curriculum Vitae
 
