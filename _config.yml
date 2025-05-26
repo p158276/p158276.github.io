@@ -1,6 +1,6 @@
 theme: minima
 author:
-  name: Kunyu(Chris) Lin
+  name: Chris Lin
   email: p158276@gmail.com
 
 # URL settings
@@ -13,7 +13,8 @@ header_pages:
 
 minima:
   skin: classic
-  social_links: 
+
+social_links: 
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kunyu-lin/" }
 # Build settings
 markdown: kramdown
