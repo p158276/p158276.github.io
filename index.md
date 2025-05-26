@@ -4,11 +4,9 @@ title: "Chris is here !"
 ---
 
 ## Kunyu(Chris) Lin
-Chris is currently a Technical Solution Consultants in the Meta, London. Chris communicates between customers, business teams, and engineers to solve complicated problems with customized solutions. He collaborates closely with top-tier clients like Zalando, Frasers, Habby, MetaJoy, Voodoo, and Zynga. He leads the efforts to support and maintain the ad mediation certification program, which allows app publishers to monetize with several ad networks like AppLovin, Pangle, and InMobi. Chris is part of the technical services team that grew MoPub's revenue for 8 consecutive quarters and sold the business for $1.05 billion in 2021.
-
-Before Twitter, most of his professional experience was for companies based in Taiwan. He spent 2.5 years at Intowow in the role of advisory solutions engineer. He was responsible for yield optimization of clients' Google Ad Manager inventory and providing technical insights for revenue lift. Before Intowow, he spent 2 years at Dcard working as an Android developer where he helped to maintain and develop new features in the Dcard Android App.
-
-Chris has 7 years of experience growing digital advertising businesses and 2 years of mobile application-specific development experience. He has a master's degree in computer science from National Tsing Hua University. He loves running, traveling, cooking, and meeting new people.
+I'm a Technical Solutions Consultant at Meta in London, where I work closely with customers, business teams, and engineers to develop tailored solutions for complex problems. My expertise lies in collaborating with top-tier clients across various industries, from gaming to retail, to troubleshoot intricate SDK issues and Ad signal problems.
+Prior to joining Meta, I led efforts to support and maintain the ad mediation certification program, empowering app publishers to monetize through multiple ad networks such as AppLovin, Pangle, and InMobi. As part of the technical services team, I contributed to MoPub's revenue growth over eight consecutive quarters, culminating in a $1.05 billion sale in 2021.
+My professional journey began in Taiwan, where I spent two and a half years as an Advisory Solutions Engineer at Intowow, optimizing yield for clients' Google Ad Manager inventory and providing technical insights for revenue enhancement. Before that, I worked as an Android Developer at Dcard for two years, maintaining and developing new features for the Dcard Android app.
 
 
 ## Check [About me](https://p158276.github.io/about/) for more details !
