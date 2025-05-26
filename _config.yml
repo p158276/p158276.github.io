@@ -1,7 +1,7 @@
 theme: minima
 author:
   name: Chris Lin
-  email: p158276@gmail.com
+  email: "p158276@gmail.com"
 
 # URL settings
 baseurl: "" # Leave this empty unless your site is in a subdirectory
@@ -13,9 +13,11 @@ header_pages:
 
 minima:
   skin: classic
-
-social_links: 
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kunyu-lin/" }
+  social_links:
+    - title: Linkedin
+      icon: linkedin
+      url: "https://www.linkedin.com/in/kunyu-lin/"
+      
 # Build settings
 markdown: kramdown
 kramdown:
