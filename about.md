@@ -28,7 +28,7 @@ permalink: /about/
     <div class="cv-entry-date">2022 –</div>
     <div class="cv-entry-body">
       <h3>Meta</h3>
-      <p class="role">Technical Solutions Consultant</p>
+      <p class="role">Sr. Technical Solutions Consultant</p>
       <p class="location">London</p>
       <ul>
         <li>Product solutions for advertisers ($50M+/yr spend) — 32.1% ROI improvement, top CSAT</li>

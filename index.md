@@ -7,7 +7,7 @@ title: "Home"
 <section class="hero">
   <div class="hero-text">
     <div class="greeting">Hello, I'm Kunyu</div>
-    <h1>Technical Solutions Consultant</h1>
+    <h1>Sr. Technical Solutions Consultant</h1>
     <p>I help companies solve complex advertising challenges — from signal loss to SDK integration to yield optimization. Currently at Meta, previously Twitter/MoPub.</p>
     <div class="hero-links">
       <a href="/about/" class="primary">View CV</a>
