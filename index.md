@@ -1,14 +1,40 @@
 ---
 layout: default
-title: "Chris is here !"
+title: "Home"
 ---
 
-## Kunyu(Chris) Lin
-I'm a Technical Solutions Consultant at Meta in London, where I work closely with customers, business teams, and engineers to develop tailored solutions for complex problems. My expertise lies in collaborating with top-tier clients across various industries, from gaming to retail, to troubleshoot intricate SDK issues and Ad signal problems.
-Prior to joining Meta, I led efforts to support and maintain the ad mediation certification program, empowering app publishers to monetize through multiple ad networks such as AppLovin, Pangle, and InMobi. As part of the technical services team, I contributed to MoPub's revenue growth over eight consecutive quarters, culminating in a $1.05 billion sale in 2021.
-My professional journey began in Taiwan, where I spent two and a half years as an Advisory Solutions Engineer at Intowow, optimizing yield for clients' Google Ad Manager inventory and providing technical insights for revenue enhancement. Before that, I worked as an Android Developer at Dcard for two years, maintaining and developing new features for the Dcard Android app.
+<section class="hero">
+  <div class="container">
+    <div class="hero-content">
+      <p class="hero-greeting">Hello, I'm</p>
+      <h1 class="hero-name">Kunyu (Chris) Lin</h1>
+      <p class="hero-title">Technical Solutions Consultant at Meta, London</p>
+      <p class="hero-summary">
+        I bridge the gap between business needs and engineering solutions. With 10+ years of experience spanning ad tech, mobile engineering, and platform partnerships, I help top-tier advertisers and publishers solve complex technical challenges at scale.
+      </p>
+      <div class="hero-links">
+        <a href="/about/" class="btn btn-primary">View CV</a>
+        <a href="/portfolio/" class="btn btn-secondary">See Portfolio</a>
+      </div>
+    </div>
+  </div>
+</section>
 
-
-## Check [About me](https://p158276.github.io/about/) for more details !
-
-## Check my works in [PORTFOLIO](https://p158276.github.io/portfolio/).
+<section class="highlights">
+  <div class="container">
+    <div class="highlights-grid">
+      <div class="highlight-card">
+        <h3>Current Role</h3>
+        <p>Technical Solutions Consultant at Meta, partnering with advertisers spending $50M+/yr to optimize tracking and ROI.</p>
+      </div>
+      <div class="highlight-card">
+        <h3>Track Record</h3>
+        <p>Contributed to MoPub's 8 consecutive quarters of revenue growth, leading to its $1.05B acquisition by AppLovin in 2021.</p>
+      </div>
+      <div class="highlight-card">
+        <h3>Expertise</h3>
+        <p>Ad serving, SDK integrations, mobile measurement, yield optimization, and cross-platform technical consulting.</p>
+      </div>
+    </div>
+  </div>
+</section>

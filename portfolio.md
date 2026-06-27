@@ -1,104 +1,132 @@
 ---
-layout: page
-title: "PORTFOLIO"
+layout: default
+title: "Portfolio"
 permalink: /portfolio/
 ---
 
-# **Mobile**
----
-#### Swipner iOS (刷刷) - 01.2017 ~ now
-  Swipner is a money-saving app which compare all the credit cards immediately and come out the best card choice for you.
-It quite complicated to compare which credit card is the cheapest (with different card organization such as VISA, Master ....etc, different card rebate)  
-We collect 140 countries' currency from 3 organization everyday. Aggregate all the information and suggest the best choice for our user.
+<div class="container page-content">
+  <h1 class="page-title">Portfolio</h1>
 
-  * Skills: iOS Development
-  
-  * Team members: YoYo Lin, Eddie Hao
-  
-  * [Get it on App store](https://goo.gl/fXUcrN)
+  <!-- Mobile Apps -->
+  <div class="portfolio-category">
+    <h2 class="portfolio-category-title">Mobile Applications</h2>
+    <div class="portfolio-grid">
 
-#### Swipner Android (刷刷) - 06.2016 ~ now
-Swipner is a money-saving app which compare all the creditcard immediately and come out the best card choice for you.
-It quite complicated to compare which credit card is the cheapest (with different card organization such as VISA, Master ....etc, different card rebate)  
-We collect 140 countries' currency from 3 organization everyday. Aggregate all the information and suggest the best choice for our user.
+      <div class="portfolio-card">
+        <h3 class="portfolio-card-title">Swipner (刷刷)</h3>
+        <p class="portfolio-card-date">2016 – Present</p>
+        <p class="portfolio-card-desc">A credit card comparison app that aggregates exchange rates from 140 countries across 3 card organizations daily, helping users find the best card for any purchase.</p>
+        <div class="portfolio-card-tags">
+          <span class="portfolio-card-tag">iOS</span>
+          <span class="portfolio-card-tag">Android</span>
+          <span class="portfolio-card-tag">Server Deployment</span>
+        </div>
+        <div class="portfolio-card-links">
+          <a href="https://goo.gl/fXUcrN" target="_blank" rel="noopener">App Store</a>
+          <a href="https://play.google.com/store/apps/details?id=com.creditcardcurrencyexchange" target="_blank" rel="noopener">Google Play</a>
+        </div>
+      </div>
 
-  * Skills: Android Development, Server deployment
-  * Team members: YoYo Lin, Alan Chen
- 
-  * [Get it on Google play store](https://play.google.com/store/apps/details?id=com.creditcardcurrencyexchange)
+      <div class="portfolio-card">
+        <h3 class="portfolio-card-title">Dcard</h3>
+        <p class="portfolio-card-date">Nov 2015 – Jun 2017</p>
+        <p class="portfolio-card-desc">Taiwan's largest social platform for university students. Maintained and developed new features for the Android app serving millions of users.</p>
+        <div class="portfolio-card-tags">
+          <span class="portfolio-card-tag">Android</span>
+          <span class="portfolio-card-tag">Java</span>
+        </div>
+        <div class="portfolio-card-links">
+          <a href="https://play.google.com/store/apps/details?id=com.sparkslab.dcardreader" target="_blank" rel="noopener">Google Play</a>
+          <a href="https://www.dcard.tw/" target="_blank" rel="noopener">Website</a>
+        </div>
+      </div>
 
-#### Dcard - 11.2015 ~ 06.2017
-  Dcard is the biggest social media for university students in Taiwan. People can talk any kind of issues on Dcard. And Dcard also provide a special service. Our member could pick up a card at midnight which might be one of your best friend in your life. 
-  * Skills: Android Development
-  
-  * Responsibilities: Maintain Dcard service and develop new functions on Android.
- 
-  * [Get it on Google play store](https://play.google.com/store/apps/details?id=com.sparkslab.dcardreader)
-  * [Reference Link](https://www.dcard.tw/)
+      <div class="portfolio-card">
+        <h3 class="portfolio-card-title">猴你聽有</h3>
+        <p class="portfolio-card-date">Nov 2013 – Jan 2014</p>
+        <p class="portfolio-card-desc">A speech recognition app built on PocketSphinx that recognizes spoken words in real-time and uses Google TTS for pronunciation guidance.</p>
+        <div class="portfolio-card-tags">
+          <span class="portfolio-card-tag">Android</span>
+          <span class="portfolio-card-tag">Audio Processing</span>
+          <span class="portfolio-card-tag">Cocos2D</span>
+        </div>
+        <div class="portfolio-card-links">
+          <a href="/2024/10/21/monkey-you.html">Details</a>
+        </div>
+      </div>
 
-#### Eyeline drawing - 12.2012 ~ 06.2013
-  This is a system for face-based analysis and recognition which can detect eyeline from human face automatically.
-  * Skills: Matlab, Machine Learning, Image Processing, C++, Java, Android Development
- 
-  * [Introduction](https://drive.google.com/file/d/1MKKXvWvlRJ8JD8D2AAtoR77MuMgx6ldP/view?usp=drive_link)
+      <div class="portfolio-card">
+        <h3 class="portfolio-card-title">Eyeline Drawing</h3>
+        <p class="portfolio-card-date">Dec 2012 – Jun 2013</p>
+        <p class="portfolio-card-desc">A face-based analysis and recognition system that automatically detects eyeline from human faces using machine learning.</p>
+        <div class="portfolio-card-tags">
+          <span class="portfolio-card-tag">Matlab</span>
+          <span class="portfolio-card-tag">Machine Learning</span>
+          <span class="portfolio-card-tag">Image Processing</span>
+        </div>
+        <div class="portfolio-card-links">
+          <a href="https://drive.google.com/file/d/1MKKXvWvlRJ8JD8D2AAtoR77MuMgx6ldP/view?usp=drive_link" target="_blank" rel="noopener">Introduction</a>
+        </div>
+      </div>
 
-#### 猴你聽有 - 11.2013 ~ 01.2014
-  This is an app based on pocketsphinx system which can recognize what user said immediately. We combined google TTS voice let user now how to talk in a easy way.  
-  
-* Awards: 2012 Telecom Innovation and Application Contest - Honorable Mention
+    </div>
+  </div>
 
-* Skills: Java, Android Development, Cocos2D, Audio Signal Processing & Recognition
+  <!-- Games -->
+  <div class="portfolio-category">
+    <h2 class="portfolio-category-title">Games</h2>
+    <div class="portfolio-grid">
 
-* [Reference Link](https://p158276.github.io/2024/10/21/monkey-you.html)
+      <div class="portfolio-card">
+        <h3 class="portfolio-card-title">MC M.J</h3>
+        <p class="portfolio-card-date">Nov 2013 – Jan 2014</p>
+        <p class="portfolio-card-desc">An RPG game built in Unity with a pitch-tracking combat system — players attack monsters by singing the correct pitch.</p>
+        <div class="portfolio-card-tags">
+          <span class="portfolio-card-tag">Unity</span>
+          <span class="portfolio-card-tag">C#</span>
+          <span class="portfolio-card-tag">C++</span>
+        </div>
+        <div class="portfolio-card-links">
+          <a href="https://www.youtube.com/watch?v=xIPSP4M3zNo" target="_blank" rel="noopener">Demo Video</a>
+        </div>
+      </div>
 
+      <div class="portfolio-card">
+        <h3 class="portfolio-card-title">True Hero</h3>
+        <p class="portfolio-card-date">Nov 2013 – Jan 2014</p>
+        <p class="portfolio-card-desc">A treasure hunt game built in Unity with a map based on National Tsing Hua University campus, helping students explore their school.</p>
+        <div class="portfolio-card-tags">
+          <span class="portfolio-card-tag">Unity</span>
+          <span class="portfolio-card-tag">C#</span>
+        </div>
+        <div class="portfolio-card-links">
+          <a href="https://www.youtube.com/watch?v=CBnahX5J-8A" target="_blank" rel="noopener">Demo Video</a>
+        </div>
+      </div>
 
-# **Game**
----
-#### MC M.J - 11.2013 ~ 01.2014
+    </div>
+  </div>
 
-  This is a RPG game created by unity which combined with pitch tracking system. User can attack the monster by singing the correct pitch. Finally they need to face the horrible monster - M.J.
-* My responsibilities: Bag System, Equippment System, Game Graphics.
+  <!-- Research & Thesis -->
+  <div class="portfolio-category">
+    <h2 class="portfolio-category-title">Research &amp; Thesis</h2>
+    <div class="portfolio-grid">
 
-* Skills: Unity, C#, C++
+      <div class="portfolio-card">
+        <h3 class="portfolio-card-title">Wafer Failure Pattern Recognition</h3>
+        <p class="portfolio-card-date">Jun 2013 – May 2014</p>
+        <p class="portfolio-card-desc">An automated recognition system for classifying semiconductor wafer failure patterns, deployed at TSMC for production use.</p>
+        <div class="portfolio-card-tags">
+          <span class="portfolio-card-tag">Matlab</span>
+          <span class="portfolio-card-tag">Machine Learning</span>
+          <span class="portfolio-card-tag">Image Processing</span>
+        </div>
+        <div class="portfolio-card-links">
+          <a href="https://hdl.handle.net/11296/pt6j57" target="_blank" rel="noopener">Thesis</a>
+        </div>
+      </div>
 
-* Team members: YoYo Lin, Andy Chuang, Yu-jie Lin
+    </div>
+  </div>
 
-* [Demo link](https://www.youtube.com/watch?v=xIPSP4M3zNo)
-
-#### True Hero - 11.2013 ~ 01.2014
-
-  This is a treasure hunt game created by unity. The map is created according to National Tsing Hua University which let student get to know their campus in a interesting way.
-  
-  * My responsibilities: Game Graphic
-  
-  * Skills: Unity, C#, C++
-  
-  * Team members: YoYo Lin, Andy Chuang, Yu-jie Lin
-  
-  * [Demo link](https://www.youtube.com/watch?v=CBnahX5J-8A)
-       
-
-# **Web development**
----
-#### Ponyrent car price estimated system - 08.2014 ~ 09.2014
-  This is a price estimated system which help customer know the total car rental price and make the reservation through mail system. 
-  * Skills: PHP, HTML
-
-
-# **Projects & Thesis**
----
-#### Wafer Failure Pattern Recognition System - 06.2013 ~ 05.2014
-
-A recognition system which can classify the failure pattern automatically instead of manual inspecting by human. This system is now used by TSMC's engineers to do the error analysis in an easy way.
-
-* Awards: 
-
-  * 2013 The 1st IPPR innovation technical and application prize - 2nd Prize
-  
-  * Intern closing competition award - Excellent work
-  
-* My responsibilities: Feature extraction, Recognition rate improving , Web interface
-* Skills: Matlab, Machine Learning, Image Processing
-* Team members: Ming-Ru Wu, YoYo Lin , Wei-Kai Liao
-* [Reference Link](https://hdl.handle.net/11296/pt6j57)
-  
+</div>

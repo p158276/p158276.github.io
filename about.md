@@ -1,104 +1,166 @@
 ---
-layout: page
-title: "About me"
+layout: default
+title: "CV"
 permalink: /about/
 ---
 
-Download the [PDF version](https://drive.google.com/file/d/1_1LuxFI6_fYXXXdQSvXcY4OlhTs3oQ2M/view?usp=sharing) without the Projects section.
+<div class="container page-content">
+  <h1 class="page-title">Curriculum Vitae</h1>
 
-# Curriculum Vitae
+  <div class="cv-download">
+    <a href="https://drive.google.com/file/d/1_1LuxFI6_fYXXXdQSvXcY4OlhTs3oQ2M/view?usp=sharing" class="btn btn-secondary" target="_blank" rel="noopener">Download PDF Version</a>
+  </div>
 
+  <div class="cv-contact">
+    <span>Kunyu (Chris) Lin</span>
+    <a href="mailto:p158276@gmail.com">p158276@gmail.com</a>
+    <a href="https://www.linkedin.com/in/kunyu-lin/" target="_blank" rel="noopener">LinkedIn</a>
+    <span>London, UK</span>
+  </div>
 
-## **Contact**
----
-* Kunyu(Chris) Lin (林坤優)
-* Phone: +886 958 823 276 / +44 7890 898961
-* Email: p158276@gmail.com
-* Social Websites: [Linkedin](https://tw.linkedin.com/in/p158276) or [Facebook](https://www.facebook.com/p158276)
+  <!-- Work Experience -->
+  <div class="cv-section">
+    <h2 class="cv-section-title">Work Experience</h2>
 
-## **Work History**
----  
-  
-META - LONDON, UNITED KINGDOM, 08.2022 - NOW
-- Technical Solution Consulatants
-	- Developed scalable product solutions for top-tier advertisers (ad spend > 50 M/yr) and brands to address web, mobile, and Mobile Measurement Partner (MMP) tracking issues, resulting in a 32.1% ROI improvement for clients and a top CSAT rating from the client.
-	- Enhanced agency support by redesigning the support framework and tooling, resulting in faster resolution times and a 30% improvement in CSAT.
-	- Collaborated with cross-functional teams, including product, engineering, and sales, to identify and resolve advertiser pain points and frictions.
-	- Presented at the Conversion API workshop during the Meta Performance Marketing Summit, leading to a $9 million revenue improvement.  
+    <div class="cv-entry">
+      <div class="cv-entry-header">
+        <span class="cv-entry-company">Meta</span>
+        <span class="cv-entry-date">Aug 2022 – Present</span>
+      </div>
+      <p class="cv-entry-role">Technical Solutions Consultant</p>
+      <p class="cv-entry-location">London, United Kingdom</p>
+      <ul>
+        <li>Developed scalable product solutions for top-tier advertisers (ad spend > $50M/yr), resulting in 32.1% ROI improvement and top CSAT rating.</li>
+        <li>Redesigned agency support framework and tooling, achieving 30% improvement in CSAT and faster resolution times.</li>
+        <li>Collaborated with product, engineering, and sales teams to identify and resolve advertiser pain points.</li>
+        <li>Presented at the Conversion API workshop during Meta Performance Marketing Summit, leading to $9M revenue improvement.</li>
+      </ul>
+    </div>
 
-TWITTER 
-- Partner Engineer in LONDON, 08.2021 - 06.2022
-- Partner Engineer in APAC, SINGAPORE, 11.2019 - 07.2021
-	- Drove collaboration between network partners, SSPs/DSPs, and our Customer Success team to address bugs, requirements, and feature requests, acting as a liaison between Product and Engineering.
-	- Collaborated closely with top-tier clients (Bitmango, Habby, MetaJoy, Voodoo,Zynga, etc.) to solve complex problems with customized solutions.
-	- Co-led MoPub's ad mediation product, which allows app publishers to monetize with 5+ ad networks (AppLovin, Pangle, InMobi, etc.); this includes certifying adapters, supporting and troubleshooting 3rd-party network SDKs, and working with SDK partners on mobile advertising in general.
-    - Provided expert technical consultation and collaborated with the demand and
-	supply sides to solve complex problems.
-	- Troubleshot bidder integration with network partners (BidMachine, Criteo,Google, InMobi, etc.).  
+    <div class="cv-entry">
+      <div class="cv-entry-header">
+        <span class="cv-entry-company">Twitter (now X)</span>
+        <span class="cv-entry-date">Nov 2019 – Jun 2022</span>
+      </div>
+      <p class="cv-entry-role">Partner Engineer</p>
+      <p class="cv-entry-location">London, UK &amp; Singapore</p>
+      <ul>
+        <li>Co-led MoPub's ad mediation product, certifying adapters and supporting 5+ ad networks (AppLovin, Pangle, InMobi).</li>
+        <li>Collaborated with top-tier clients (Bitmango, Habby, Voodoo, Zynga) to deliver customized technical solutions.</li>
+        <li>Drove collaboration between network partners, SSPs/DSPs, and Customer Success to resolve bugs and feature requests.</li>
+        <li>Troubleshot bidder integrations with partners including BidMachine, Criteo, Google, and InMobi.</li>
+      </ul>
+    </div>
 
-INTOWOW - TAIPEI, TAIWAN, 07.2017 - 10.2019
-- Advisory Solution Engineer Team Lead
-	- Designed the best SDK integration practices, supported client-side code troubleshoot, and analyzed results for over 50 publishers
-	- Led technical consultation for Intowow products with over 200 publishers and strived to gain revenue
-    - Cooperated with account managers to provide technical insights for potential clients
-    - Managed communication between product and business team to meet customer requirement  
-      
-SWIPNER, 01.2016 - NOW
-- Founder
-	- Established credit card comparing mobile application for both [Android](https://tinyurl.com/hlcd978) and [iOS](https://tinyurl.com/yxbb5fa5) 
-    - Achieved over 30,000 downloads from Google Play and App Store
-    - Succeeded in maintaining the App rating above 4.7 stars on Google Play  
+    <div class="cv-entry">
+      <div class="cv-entry-header">
+        <span class="cv-entry-company">Intowow</span>
+        <span class="cv-entry-date">Jul 2017 – Oct 2019</span>
+      </div>
+      <p class="cv-entry-role">Advisory Solutions Engineer, Team Lead</p>
+      <p class="cv-entry-location">Taipei, Taiwan</p>
+      <ul>
+        <li>Designed SDK integration best practices and supported client-side troubleshooting for 50+ publishers.</li>
+        <li>Led technical consultation for Intowow products with 200+ publishers to drive revenue growth.</li>
+        <li>Managed communication between product and business teams to meet customer requirements.</li>
+      </ul>
+    </div>
 
-DCARD - TAIPEI, TAIWAN, 11.2015 - 06.2017
-- Android developer
-	- Developed mediation logistic to manage ad networks to drive up revenue
-    - Implemented and maintained Dcard Android App functions
-    - Initiated several projects including server upgrade, personal nickname system, and online match service  
+    <div class="cv-entry">
+      <div class="cv-entry-header">
+        <span class="cv-entry-company">Swipner</span>
+        <span class="cv-entry-date">Jan 2016 – Present</span>
+      </div>
+      <p class="cv-entry-role">Founder</p>
+      <ul>
+        <li>Built a credit card comparison app for Android and iOS, achieving 30,000+ downloads and 4.7-star rating on Google Play.</li>
+      </ul>
+    </div>
 
-NATIONAL TSING HUA UNIVERSITY – HSINCHU, TAIWAN, 09.2013 - 06.2014
-- Teaching assistant
-	- Worked as a teaching Assistant for the Web Programming Course (CS3431)
-	- Worked as a teaching Assistant for the Scientific Computing Course (CS3330) 
+    <div class="cv-entry">
+      <div class="cv-entry-header">
+        <span class="cv-entry-company">Dcard</span>
+        <span class="cv-entry-date">Nov 2015 – Jun 2017</span>
+      </div>
+      <p class="cv-entry-role">Android Developer</p>
+      <p class="cv-entry-location">Taipei, Taiwan</p>
+      <ul>
+        <li>Developed ad mediation logistics to optimize revenue across multiple ad networks.</li>
+        <li>Maintained and developed new features for the Dcard Android app.</li>
+        <li>Initiated projects including server upgrade, personal nickname system, and online match service.</li>
+      </ul>
+    </div>
 
-TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY – HSINCHU, TAIWAN, 02.2013 - 06.2014
-- Software engineer in MTC-AECP
-	- Implemented a web platform which automatically detected defects pattern classification by applying machine-learning techniques which saved 80% of human time
-	- Built a web interface for engineers to define the defects pattern easily
-	- Awarded 2nd Prize of the 1st IPPR innovation technical and application (out of 15 teams), IPPR Taiwan  
+    <div class="cv-entry">
+      <div class="cv-entry-header">
+        <span class="cv-entry-company">TSMC</span>
+        <span class="cv-entry-date">Feb 2013 – Jun 2014</span>
+      </div>
+      <p class="cv-entry-role">Software Engineer, MTC-AECP</p>
+      <p class="cv-entry-location">Hsinchu, Taiwan</p>
+      <ul>
+        <li>Built a web platform for automated defect pattern classification using machine learning, saving 80% of manual inspection time.</li>
+        <li>Awarded 2nd Prize at the 1st IPPR Innovation Technical and Application competition.</li>
+      </ul>
+    </div>
 
-FIRST INTERNATIONAL COMPUTER – TAIPEI, TAIWAN, 09.2012 - 01.2014
-- Software engineer
-	- Researched image processing concepts with girl’s makeup detection algorithm 
-	- Ported program from Matlab to C and Android
+  </div>
 
-## **Education**
----  
+  <!-- Education -->
+  <div class="cv-section">
+    <h2 class="cv-section-title">Education</h2>
 
-NATIONAL TSING HUA UNIVERSITY, HSINCHU, TAIWAN, 2012 - 2014
-- MS in Institute of Information Systems and Applications, GPA 4.01/4.3
-- Joined Multimedia Information Retrieval (MIR) LAB
-- Research focused on Image Processing, Machine Learning.
-	- Thesis: Design And Improvement of Wafer Failure Pattern Recognition.  
+    <div class="cv-entry">
+      <div class="cv-entry-header">
+        <span class="cv-entry-company">National Tsing Hua University</span>
+        <span class="cv-entry-date">2012 – 2014</span>
+      </div>
+      <p class="cv-entry-role">MS, Information Systems and Applications</p>
+      <p class="cv-entry-location">Hsinchu, Taiwan &bull; GPA: 4.01/4.3</p>
+      <ul>
+        <li>Multimedia Information Retrieval Lab — Research in image processing and machine learning.</li>
+        <li>Thesis: Design and Improvement of Wafer Failure Pattern Recognition.</li>
+      </ul>
+    </div>
 
-TAMKANG UNIVERSITY, TAIWAN, TAMSUI, TAIWAN, 2008 - 2012
-- BS in Computer Science and Information Engineering, GPA 3.96/4.0
-- Joined Wireless & Mobile Network Lab (WMNL)
-  
-## **Projects**
----
-Please go to [Portfolio](https://p158276.github.io/portfolio/) to see my projects including Wafer pattern recognition, Game development, App design, and more.
+    <div class="cv-entry">
+      <div class="cv-entry-header">
+        <span class="cv-entry-company">Tamkang University</span>
+        <span class="cv-entry-date">2008 – 2012</span>
+      </div>
+      <p class="cv-entry-role">BS, Computer Science and Information Engineering</p>
+      <p class="cv-entry-location">Tamsui, Taiwan &bull; GPA: 3.96/4.0</p>
+    </div>
+  </div>
 
-## **Language**
----
-* Chinese: Native speaker
-* English: Professional working proficiency.
+  <!-- Skills -->
+  <div class="cv-section">
+    <h2 class="cv-section-title">Skills &amp; Expertise</h2>
+    <div class="skills-grid">
+      <span class="skill-tag">Ad Serving</span>
+      <span class="skill-tag">Yield Optimization</span>
+      <span class="skill-tag">DSP / SSP / ADX</span>
+      <span class="skill-tag">SDK Integration</span>
+      <span class="skill-tag">Mobile Measurement</span>
+      <span class="skill-tag">Android Development</span>
+      <span class="skill-tag">iOS Development</span>
+      <span class="skill-tag">Python</span>
+      <span class="skill-tag">Java</span>
+      <span class="skill-tag">Swift</span>
+      <span class="skill-tag">C++</span>
+      <span class="skill-tag">Machine Learning</span>
+      <span class="skill-tag">Unity</span>
+      <span class="skill-tag">Matlab</span>
+    </div>
+  </div>
 
-## **Skill & Expertise**
----
-*	Language:
+  <!-- Languages -->
+  <div class="cv-section">
+    <h2 class="cv-section-title">Languages</h2>
+    <div class="skills-grid">
+      <span class="skill-tag">Chinese — Native</span>
+      <span class="skill-tag">English — Professional Working Proficiency</span>
+    </div>
+  </div>
 
-	- Matlab, C, Java, Python, C++, Swift, Unity
-*	Skill:
-
-	- Ad Serving, Yield optimization, DSP, SSP, ADX, Ad Network, Android /iOS development, Machine Learning, Mediation
-
+</div>

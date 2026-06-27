@@ -1,24 +1,21 @@
-theme: minima
+title: "Chris Lin"
+description: "Technical Solutions Consultant — Ad Tech, Mobile Engineering, Product Solutions"
 author:
   name: Chris Lin
   email: "p158276@gmail.com"
 
 # URL settings
-baseurl: "" # Leave this empty unless your site is in a subdirectory
-url: "https://p158276.github.io" # Your GitHub Pages URL
+baseurl: ""
+url: "https://p158276.github.io"
 
-header_pages:
-  - about.md
-  - portfolio.md
-
-minima:
-  skin: classic
-  social_links:
-    - title: Linkedin
-      icon: linkedin
-      url: "https://www.linkedin.com/in/kunyu-lin/"
-      
 # Build settings
 markdown: kramdown
 kramdown:
-  input: GFM 
+  input: GFM
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - swipner.md
