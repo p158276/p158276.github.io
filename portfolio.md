@@ -1,132 +1,135 @@
 ---
 layout: default
-title: "Portfolio"
+title: "Work"
 permalink: /portfolio/
 ---
 
-<div class="container page-content">
-  <h1 class="page-title">Portfolio</h1>
+<div class="wrap">
+<div class="page-content">
 
-  <!-- Mobile Apps -->
-  <div class="portfolio-category">
-    <h2 class="portfolio-category-title">Mobile Applications</h2>
-    <div class="portfolio-grid">
+<h1 class="page-title">Selected Work</h1>
+<p class="page-subtitle">Projects, apps, games, and research from the past decade.</p>
 
-      <div class="portfolio-card">
-        <h3 class="portfolio-card-title">Swipner (刷刷)</h3>
-        <p class="portfolio-card-date">2016 – Present</p>
-        <p class="portfolio-card-desc">A credit card comparison app that aggregates exchange rates from 140 countries across 3 card organizations daily, helping users find the best card for any purchase.</p>
-        <div class="portfolio-card-tags">
-          <span class="portfolio-card-tag">iOS</span>
-          <span class="portfolio-card-tag">Android</span>
-          <span class="portfolio-card-tag">Server Deployment</span>
+<div class="portfolio-section">
+  <h2 class="portfolio-section-title">Apps</h2>
+  <div class="portfolio-list">
+
+    <div class="portfolio-item">
+      <div class="portfolio-item-main">
+        <h3>Swipner (刷刷)</h3>
+        <p>Credit card comparison app. Aggregates exchange rates from 140 countries daily across 3 card organizations. 30K+ downloads.</p>
+        <div class="portfolio-item-tags">
+          <span>iOS</span><span>Android</span><span>Server</span>
         </div>
-        <div class="portfolio-card-links">
-          <a href="https://goo.gl/fXUcrN" target="_blank" rel="noopener">App Store</a>
-          <a href="https://play.google.com/store/apps/details?id=com.creditcardcurrencyexchange" target="_blank" rel="noopener">Google Play</a>
+        <div class="portfolio-item-links">
+          <a href="https://goo.gl/fXUcrN" target="_blank">App Store</a>
+          <a href="https://play.google.com/store/apps/details?id=com.creditcardcurrencyexchange" target="_blank">Google Play</a>
         </div>
       </div>
+      <div class="portfolio-item-meta">2016 –</div>
+    </div>
 
-      <div class="portfolio-card">
-        <h3 class="portfolio-card-title">Dcard</h3>
-        <p class="portfolio-card-date">Nov 2015 – Jun 2017</p>
-        <p class="portfolio-card-desc">Taiwan's largest social platform for university students. Maintained and developed new features for the Android app serving millions of users.</p>
-        <div class="portfolio-card-tags">
-          <span class="portfolio-card-tag">Android</span>
-          <span class="portfolio-card-tag">Java</span>
+    <div class="portfolio-item">
+      <div class="portfolio-item-main">
+        <h3>Dcard</h3>
+        <p>Taiwan's largest student social platform. Maintained and shipped features for the Android app.</p>
+        <div class="portfolio-item-tags">
+          <span>Android</span><span>Java</span>
         </div>
-        <div class="portfolio-card-links">
-          <a href="https://play.google.com/store/apps/details?id=com.sparkslab.dcardreader" target="_blank" rel="noopener">Google Play</a>
-          <a href="https://www.dcard.tw/" target="_blank" rel="noopener">Website</a>
+        <div class="portfolio-item-links">
+          <a href="https://play.google.com/store/apps/details?id=com.sparkslab.dcardreader" target="_blank">Google Play</a>
+          <a href="https://www.dcard.tw/" target="_blank">Website</a>
         </div>
       </div>
+      <div class="portfolio-item-meta">2015 – 2017</div>
+    </div>
 
-      <div class="portfolio-card">
-        <h3 class="portfolio-card-title">猴你聽有</h3>
-        <p class="portfolio-card-date">Nov 2013 – Jan 2014</p>
-        <p class="portfolio-card-desc">A speech recognition app built on PocketSphinx that recognizes spoken words in real-time and uses Google TTS for pronunciation guidance.</p>
-        <div class="portfolio-card-tags">
-          <span class="portfolio-card-tag">Android</span>
-          <span class="portfolio-card-tag">Audio Processing</span>
-          <span class="portfolio-card-tag">Cocos2D</span>
+    <div class="portfolio-item">
+      <div class="portfolio-item-main">
+        <h3>猴你聽有</h3>
+        <p>Speech recognition app using PocketSphinx + Google TTS. Telecom Innovation Contest honorable mention.</p>
+        <div class="portfolio-item-tags">
+          <span>Android</span><span>Audio DSP</span><span>Cocos2D</span>
         </div>
-        <div class="portfolio-card-links">
+        <div class="portfolio-item-links">
           <a href="/2024/10/21/monkey-you.html">Details</a>
         </div>
       </div>
-
-      <div class="portfolio-card">
-        <h3 class="portfolio-card-title">Eyeline Drawing</h3>
-        <p class="portfolio-card-date">Dec 2012 – Jun 2013</p>
-        <p class="portfolio-card-desc">A face-based analysis and recognition system that automatically detects eyeline from human faces using machine learning.</p>
-        <div class="portfolio-card-tags">
-          <span class="portfolio-card-tag">Matlab</span>
-          <span class="portfolio-card-tag">Machine Learning</span>
-          <span class="portfolio-card-tag">Image Processing</span>
-        </div>
-        <div class="portfolio-card-links">
-          <a href="https://drive.google.com/file/d/1MKKXvWvlRJ8JD8D2AAtoR77MuMgx6ldP/view?usp=drive_link" target="_blank" rel="noopener">Introduction</a>
-        </div>
-      </div>
-
+      <div class="portfolio-item-meta">2013 – 2014</div>
     </div>
-  </div>
 
-  <!-- Games -->
-  <div class="portfolio-category">
-    <h2 class="portfolio-category-title">Games</h2>
-    <div class="portfolio-grid">
-
-      <div class="portfolio-card">
-        <h3 class="portfolio-card-title">MC M.J</h3>
-        <p class="portfolio-card-date">Nov 2013 – Jan 2014</p>
-        <p class="portfolio-card-desc">An RPG game built in Unity with a pitch-tracking combat system — players attack monsters by singing the correct pitch.</p>
-        <div class="portfolio-card-tags">
-          <span class="portfolio-card-tag">Unity</span>
-          <span class="portfolio-card-tag">C#</span>
-          <span class="portfolio-card-tag">C++</span>
+    <div class="portfolio-item">
+      <div class="portfolio-item-main">
+        <h3>Eyeline Drawing</h3>
+        <p>Face-based analysis system that auto-detects eyeline using ML.</p>
+        <div class="portfolio-item-tags">
+          <span>Matlab</span><span>ML</span><span>Image Processing</span>
         </div>
-        <div class="portfolio-card-links">
-          <a href="https://www.youtube.com/watch?v=xIPSP4M3zNo" target="_blank" rel="noopener">Demo Video</a>
+        <div class="portfolio-item-links">
+          <a href="https://drive.google.com/file/d/1MKKXvWvlRJ8JD8D2AAtoR77MuMgx6ldP/view?usp=drive_link" target="_blank">Intro</a>
         </div>
       </div>
-
-      <div class="portfolio-card">
-        <h3 class="portfolio-card-title">True Hero</h3>
-        <p class="portfolio-card-date">Nov 2013 – Jan 2014</p>
-        <p class="portfolio-card-desc">A treasure hunt game built in Unity with a map based on National Tsing Hua University campus, helping students explore their school.</p>
-        <div class="portfolio-card-tags">
-          <span class="portfolio-card-tag">Unity</span>
-          <span class="portfolio-card-tag">C#</span>
-        </div>
-        <div class="portfolio-card-links">
-          <a href="https://www.youtube.com/watch?v=CBnahX5J-8A" target="_blank" rel="noopener">Demo Video</a>
-        </div>
-      </div>
-
+      <div class="portfolio-item-meta">2012 – 2013</div>
     </div>
+
   </div>
+</div>
 
-  <!-- Research & Thesis -->
-  <div class="portfolio-category">
-    <h2 class="portfolio-category-title">Research &amp; Thesis</h2>
-    <div class="portfolio-grid">
+<div class="portfolio-section">
+  <h2 class="portfolio-section-title">Games</h2>
+  <div class="portfolio-list">
 
-      <div class="portfolio-card">
-        <h3 class="portfolio-card-title">Wafer Failure Pattern Recognition</h3>
-        <p class="portfolio-card-date">Jun 2013 – May 2014</p>
-        <p class="portfolio-card-desc">An automated recognition system for classifying semiconductor wafer failure patterns, deployed at TSMC for production use.</p>
-        <div class="portfolio-card-tags">
-          <span class="portfolio-card-tag">Matlab</span>
-          <span class="portfolio-card-tag">Machine Learning</span>
-          <span class="portfolio-card-tag">Image Processing</span>
+    <div class="portfolio-item">
+      <div class="portfolio-item-main">
+        <h3>MC M.J</h3>
+        <p>RPG with pitch-tracking combat. Sing the right note to attack. Built in Unity.</p>
+        <div class="portfolio-item-tags">
+          <span>Unity</span><span>C#</span><span>C++</span>
         </div>
-        <div class="portfolio-card-links">
-          <a href="https://hdl.handle.net/11296/pt6j57" target="_blank" rel="noopener">Thesis</a>
+        <div class="portfolio-item-links">
+          <a href="https://www.youtube.com/watch?v=xIPSP4M3zNo" target="_blank">Demo</a>
         </div>
       </div>
-
+      <div class="portfolio-item-meta">2013 – 2014</div>
     </div>
-  </div>
 
+    <div class="portfolio-item">
+      <div class="portfolio-item-main">
+        <h3>True Hero</h3>
+        <p>Campus treasure hunt game. Map based on NTHU. Helps students explore their university.</p>
+        <div class="portfolio-item-tags">
+          <span>Unity</span><span>C#</span>
+        </div>
+        <div class="portfolio-item-links">
+          <a href="https://www.youtube.com/watch?v=CBnahX5J-8A" target="_blank">Demo</a>
+        </div>
+      </div>
+      <div class="portfolio-item-meta">2013 – 2014</div>
+    </div>
+
+  </div>
+</div>
+
+<div class="portfolio-section">
+  <h2 class="portfolio-section-title">Research</h2>
+  <div class="portfolio-list">
+
+    <div class="portfolio-item">
+      <div class="portfolio-item-main">
+        <h3>Wafer Failure Pattern Recognition</h3>
+        <p>Automated classification of semiconductor defect patterns. Deployed at TSMC. 2nd Prize at IPPR competition.</p>
+        <div class="portfolio-item-tags">
+          <span>Matlab</span><span>ML</span><span>Image Processing</span>
+        </div>
+        <div class="portfolio-item-links">
+          <a href="https://hdl.handle.net/11296/pt6j57" target="_blank">Thesis</a>
+        </div>
+      </div>
+      <div class="portfolio-item-meta">2013 – 2014</div>
+    </div>
+
+  </div>
+</div>
+
+</div>
 </div>

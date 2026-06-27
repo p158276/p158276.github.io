@@ -3,26 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }} | Chris Lin</title>
-  <meta name="description" content="Kunyu (Chris) Lin – Technical Solutions Consultant. Ad Tech, Mobile Engineering, and Product Solutions.">
+  <title>{{ page.title }} — Chris Lin</title>
+  <meta name="description" content="Kunyu (Chris) Lin — Technical Solutions Consultant, Ad Tech, London.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
   <header class="site-header">
-    <div class="container">
-      <a href="{{ '/' | relative_url }}" class="site-logo">Chris Lin</a>
+    <div class="wrap">
+      <a href="{{ '/' | relative_url }}" class="site-logo">chris lin</a>
+      <button class="nav-toggle" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
       <nav class="site-nav">
-        <button class="nav-toggle" aria-label="Toggle navigation">
-          <span></span><span></span><span></span>
-        </button>
-        <ul class="nav-links">
-          <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
-          <li><a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>CV</a></li>
-          <li><a href="{{ '/portfolio/' | relative_url }}" {% if page.url == '/portfolio/' %}class="active"{% endif %}>Portfolio</a></li>
-        </ul>
+        <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Index</a>
+        <a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>CV</a>
+        <a href="{{ '/portfolio/' | relative_url }}" {% if page.url == '/portfolio/' %}class="active"{% endif %}>Work</a>
       </nav>
     </div>
   </header>
@@ -32,27 +30,24 @@
   </main>
 
   <footer class="site-footer">
-    <div class="container">
-      <div class="footer-content">
-        <div class="footer-info">
-          <p class="footer-name">Kunyu (Chris) Lin</p>
-          <p class="footer-role">Technical Solutions Consultant</p>
-        </div>
-        <div class="footer-links">
-          <a href="mailto:p158276@gmail.com">Email</a>
-          <a href="https://www.linkedin.com/in/kunyu-lin/" target="_blank" rel="noopener">LinkedIn</a>
-          <a href="https://github.com/p158276" target="_blank" rel="noopener">GitHub</a>
-        </div>
+    <div class="wrap">
+      <span class="footer-left">&copy; {{ 'now' | date: '%Y' }} Kunyu Lin</span>
+      <div class="footer-links">
+        <a href="mailto:p158276@gmail.com">Email</a>
+        <a href="https://www.linkedin.com/in/kunyu-lin/" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://github.com/p158276" target="_blank" rel="noopener">GitHub</a>
       </div>
-      <p class="footer-copy">&copy; {{ 'now' | date: '%Y' }} Chris Lin. All rights reserved.</p>
     </div>
   </footer>
 
   <script>
-    document.querySelector('.nav-toggle').addEventListener('click', function() {
-      document.querySelector('.nav-links').classList.toggle('open');
-      this.classList.toggle('open');
-    });
+    const toggle = document.querySelector('.nav-toggle');
+    const nav = document.querySelector('.site-nav');
+    if (toggle) {
+      toggle.addEventListener('click', () => {
+        nav.classList.toggle('open');
+      });
+    }
   </script>
 </body>
 </html>
