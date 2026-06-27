@@ -1,42 +1,59 @@
 ---
 layout: default
-title: "Index"
+title: "Home"
 ---
 
 <div class="wrap">
 <section class="hero">
-  <span class="hero-label">London, UK</span>
-  <h1>I'm Kunyu (Chris) Lin.<br>I make ad tech <span>work</span>.</h1>
-  <p class="hero-bio">
-    Technical Solutions Consultant at Meta. Previously Twitter/MoPub, Intowow, Dcard. 10+ years solving signal loss, SDK integration, and yield problems for companies spending serious money on mobile advertising.
-  </p>
-  <div class="hero-meta">
-    <a href="/about/">Read CV</a>
-    <a href="/portfolio/">See past work</a>
-    <a href="mailto:p158276@gmail.com">Get in touch</a>
+  <div class="hero-text">
+    <div class="greeting">Hello, I'm Kunyu</div>
+    <h1>Technical Solutions Consultant</h1>
+    <p>I help companies solve complex advertising challenges — from signal loss to SDK integration to yield optimization. Currently at Meta, previously Twitter/MoPub.</p>
+    <div class="hero-links">
+      <a href="/about/" class="primary">View CV</a>
+      <a href="/portfolio/" class="secondary">See Work</a>
+    </div>
+  </div>
+  <div class="hero-card">
+    <div class="stat">
+      <div class="stat-label">Current</div>
+      <div class="stat-value">Meta — London</div>
+    </div>
+    <div class="stat">
+      <div class="stat-label">Experience</div>
+      <div class="stat-value">10+ years in Ad Tech</div>
+    </div>
+    <div class="stat">
+      <div class="stat-label">Previously</div>
+      <div class="stat-value">Twitter/MoPub, Intowow, Dcard</div>
+    </div>
+    <div class="stat">
+      <div class="stat-label">Education</div>
+      <div class="stat-value">MS — National Tsing Hua University</div>
+    </div>
   </div>
 </section>
 
-<hr class="section-rule">
-
-<section class="now-section">
-  <span class="section-label">What I do</span>
-  <div class="now-grid">
-    <div class="now-item">
-      <h3>Meta (2022–now)</h3>
-      <p>Solving web/mobile/MMP tracking for advertisers spending $50M+/yr. 32% ROI lift. Top CSAT.</p>
+<section class="section">
+  <div class="section-header">
+    <h2>Highlights</h2>
+    <a href="/portfolio/">View all →</a>
+  </div>
+  <div class="cards">
+    <div class="card">
+      <div class="tag">Meta</div>
+      <h3>32% ROI Improvement</h3>
+      <p>Product solutions for advertisers spending $50M+/yr. Top CSAT scores.</p>
     </div>
-    <div class="now-item">
-      <h3>MoPub → $1.05B exit</h3>
-      <p>Co-led ad mediation across 5+ networks. 8 consecutive quarters of revenue growth before acquisition.</p>
+    <div class="card">
+      <div class="tag">MoPub</div>
+      <h3>$1.05B Acquisition</h3>
+      <p>Co-led ad mediation across 5+ networks. 8 consecutive quarters of growth.</p>
     </div>
-    <div class="now-item">
-      <h3>Swipner (side project)</h3>
-      <p>Credit card comparison app. 30K+ downloads, 4.7★ rating. Still running since 2016.</p>
-    </div>
-    <div class="now-item">
-      <h3>Background</h3>
-      <p>MS from Tsing Hua (ML/CV). Started as Android dev at Dcard. Moved through yield optimization into solutions consulting.</p>
+    <div class="card">
+      <div class="tag">Side Project</div>
+      <h3>Swipner — 30K+ Downloads</h3>
+      <p>Credit card comparison app with 4.7★ rating since 2016.</p>
     </div>
   </div>
 </section>

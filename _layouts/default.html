@@ -7,18 +7,18 @@
   <meta name="description" content="Kunyu (Chris) Lin — Technical Solutions Consultant, Ad Tech, London.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
   <header class="site-header">
     <div class="wrap">
-      <a href="{{ '/' | relative_url }}" class="site-logo">kunyu (chris) lin</a>
+      <a href="{{ '/' | relative_url }}" class="site-logo">Kunyu (Chris) Lin</a>
       <button class="nav-toggle" aria-label="Menu">
         <span></span><span></span><span></span>
       </button>
       <nav class="site-nav">
-        <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Index</a>
+        <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
         <a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>CV</a>
         <a href="{{ '/portfolio/' | relative_url }}" {% if page.url == '/portfolio/' %}class="active"{% endif %}>Work</a>
       </nav>
@@ -31,7 +31,7 @@
 
   <footer class="site-footer">
     <div class="wrap">
-      <span class="footer-left">&copy; {{ 'now' | date: '%Y' }} Kunyu Lin</span>
+      <span class="footer-left">&copy; {{ 'now' | date: '%Y' }} Kunyu Lin &middot; London, UK</span>
       <div class="footer-links">
         <a href="mailto:p158276@gmail.com">Email</a>
         <a href="https://www.linkedin.com/in/kunyu-lin/" target="_blank" rel="noopener">LinkedIn</a>

@@ -8,16 +8,17 @@ permalink: /about/
 <div class="page-content">
 
 <div class="cv-header">
-  <h1>Kunyu (Chris) Lin</h1>
-  <div class="cv-contact-row">
-    <span>London, UK</span>
-    <a href="mailto:p158276@gmail.com">p158276@gmail.com</a>
-    <a href="https://www.linkedin.com/in/kunyu-lin/" target="_blank">LinkedIn</a>
+  <div class="cv-header-info">
+    <h1>Kunyu (Chris) Lin</h1>
+    <div class="cv-contact-row">
+      <span>London, UK</span>
+      <a href="mailto:p158276@gmail.com">p158276@gmail.com</a>
+      <a href="https://www.linkedin.com/in/kunyu-lin/" target="_blank">LinkedIn</a>
+    </div>
   </div>
-</div>
-
-<div class="cv-download">
-  <a href="https://drive.google.com/file/d/1_1LuxFI6_fYXXXdQSvXcY4OlhTs3oQ2M/view?usp=sharing" target="_blank">↓ Download PDF</a>
+  <div class="cv-download">
+    <a href="https://drive.google.com/file/d/1_1LuxFI6_fYXXXdQSvXcY4OlhTs3oQ2M/view?usp=sharing" target="_blank">Download PDF</a>
+  </div>
 </div>
 
 <div class="cv-section">

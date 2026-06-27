@@ -7,8 +7,10 @@ permalink: /portfolio/
 <div class="wrap">
 <div class="page-content">
 
-<h1 class="page-title">Selected Work</h1>
-<p class="page-subtitle">Projects, apps, games, and research from the past decade.</p>
+<div class="page-header">
+  <h1>Selected Work</h1>
+  <p class="subtitle">Projects, apps, games, and research from the past decade.</p>
+</div>
 
 <div class="portfolio-section">
   <h2 class="portfolio-section-title">Apps</h2>
