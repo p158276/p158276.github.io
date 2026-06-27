@@ -6,7 +6,7 @@ title: "Index"
 <div class="wrap">
 <section class="hero">
   <span class="hero-label">London, UK</span>
-  <h1>I'm Chris Lin.<br>I make ad tech <span>work</span>.</h1>
+  <h1>I'm Kunyu (Chris) Lin.<br>I make ad tech <span>work</span>.</h1>
   <p class="hero-bio">
     Technical Solutions Consultant at Meta. Previously Twitter/MoPub, Intowow, Dcard. 10+ years solving signal loss, SDK integration, and yield problems for companies spending serious money on mobile advertising.
   </p>
