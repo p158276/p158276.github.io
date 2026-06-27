@@ -83,6 +83,19 @@ permalink: /about/
       </ul>
     </div>
   </div>
+
+  <div class="cv-entry">
+    <div class="cv-entry-date">2013 – 2014</div>
+    <div class="cv-entry-body">
+      <h3>TSMC</h3>
+      <p class="role">Software Engineer Intern</p>
+      <p class="location">Hsinchu, Taiwan</p>
+      <ul>
+        <li>ML-based wafer defect classification — saved 80% manual inspection time</li>
+        <li>2nd Prize, IPPR Innovation Technical and Application</li>
+      </ul>
+    </div>
+  </div>
 </div>
 
 <div class="cv-section">
