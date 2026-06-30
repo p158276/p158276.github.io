@@ -7,7 +7,7 @@ title: "Home"
 <section class="hero">
   <div class="hero-text">
     <div class="greeting">Hello, I'm Kunyu</div>
-    <h1>Senior Solution Engineer</h1>
+    <h1>Senior Solutions Engineer</h1>
     <p>9+ years specializing in programmatic ad monetization and enterprise API/SDK integrations. Bridging Product Management, Core Engineering, and commercial teams to safeguard high-scale revenue tracking.</p>
     <div class="hero-links">
       <a href="/about/" class="primary">View CV</a>
