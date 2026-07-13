@@ -56,6 +56,41 @@
         nav.classList.toggle('open');
       });
     }
+
+    // GA4 button click tracking
+    document.addEventListener('click', function(e) {
+      var link = e.target.closest('a');
+      if (!link) return;
+
+      var href = link.getAttribute('href') || '';
+      var text = link.textContent.trim();
+      var category = 'link';
+
+      // Classify click types
+      if (link.classList.contains('primary') || link.classList.contains('secondary')) {
+        category = 'cta_button';
+      } else if (link.closest('.site-nav')) {
+        category = 'navigation';
+      } else if (link.closest('.footer-links')) {
+        category = 'footer_link';
+      } else if (link.closest('.cv-download')) {
+        category = 'cv_download';
+      } else if (link.closest('.portfolio-item-links')) {
+        category = 'portfolio_link';
+      } else if (link.closest('.hero-card') || link.closest('.cards')) {
+        category = 'card_link';
+      }
+
+      // Send event to GA4
+      if (typeof gtag === 'function') {
+        gtag('event', 'click', {
+          event_category: category,
+          event_label: text,
+          link_url: href,
+          page_path: window.location.pathname
+        });
+      }
+    });
   </script>
 </body>
 </html>
