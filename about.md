@@ -12,7 +12,7 @@ permalink: /about/
     <h1>Kunyu (Chris) Lin</h1>
     <div class="cv-contact-row">
       <span>London, UK</span>
-      <a href="mailto:p158276@gmail.com">p158276@gmail.com</a>
+      <a href="mailto:hello.kunyul@gmail.com">hello.kunyul@gmail.com</a>
       <a href="https://www.linkedin.com/in/kunyu-lin/" target="_blank">LinkedIn</a>
     </div>
   </div>
